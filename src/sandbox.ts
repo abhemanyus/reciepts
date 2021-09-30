@@ -1,0 +1,1 @@
+document.querySelectorAll('input').forEach(item => item.value = '69')
